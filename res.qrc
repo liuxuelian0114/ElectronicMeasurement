@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/image/3d.png</file>
+        <file>res/image/about.png</file>
+        <file>res/image/checked.png</file>
+        <file>res/image/colourwheel.bmp</file>
+        <file>res/image/config.png</file>
+        <file>res/image/para.png</file>
+        <file>res/image/parameters.png</file>
+        <file>res/image/rcs.png</file>
+        <file>res/image/reset.png</file>
+        <file>res/image/start.ico</file>
+        <file>res/image/stop.ico</file>
+        <file>res/image/test.png</file>
+        <file>res/image/user_group.png</file>
+        <file>res/image/user_login.png</file>
+        <file>res/style.qss</file>
+        <file>res/image/logo.png</file>
+        <file>res/image/logo.ico</file>
+    </qresource>
+</RCC>
