@@ -1,0 +1,112 @@
+﻿QMenuBar{
+     background:#DCDCDC;
+}
+
+QToolBar{
+    background:#FFFFFF;
+}
+
+QStatusBar{
+    background:#DCDCDC;
+}
+
+QFrame#frameControl, #framePicture{
+    border: 2px solid #676767;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+QWidget#centralWidget{
+    background:#FFFFFF;
+}
+
+QGroupBox#groupBoxDt::title{
+    subcontrol-position: top center;
+    subcontrol-origin: margin;
+}
+
+QGroupBox#groupBoxRf::title{
+    subcontrol-position: top center;
+    subcontrol-origin: margin;
+}
+
+QGroupBox#groupBoxServ::title{
+    subcontrol-position: top center;
+    subcontrol-origin: margin;
+
+}
+
+QGroupBox#groupBoxPara::title{
+    subcontrol-position: top center;
+    subcontrol-origin: margin;
+
+}
+
+QGroupBox#groupBoxTestDesc::title{
+    subcontrol-position: top center;
+    subcontrol-origin: margin;
+
+}
+QGroupBox#groupBoxDt{
+    border: 1px solid #13227A;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px
+
+}
+
+QGroupBox#groupBoxRf{
+    border: 1px solid #13227A;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px
+}
+QGroupBox#groupBoxServ{
+    border: 1px solid #13227A;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px
+}
+QGroupBox#groupBoxPara{
+    border: 1px solid #13227A;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px
+}
+QGroupBox#groupBoxTestDesc{
+    border: 1px solid #13227A;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px
+}
+
+QGroupBox#groupBoxPose{
+    border: 1px solid #FFFFFF;
+}
+
+QGroupBox#groupBoxPulse{
+    border: 1px solid #FFFFFF;
+}
+
+
+
+QPushButton:hover{
+    background-color:#5AA72D;
+}
+
+QPushButton:pressed{
+    background-color:#5AA72D;
+}
+
+QPushButton{
+    background-color:#D2D3D4;
+}
+
+
+QCheckBox::indicator:checked {
+    background-color:#5AA72D;
+}
+
+QCheckBox::indicator:unchecked {
+    background-color:#D94F43;
+}
