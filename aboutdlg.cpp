@@ -22,3 +22,5 @@ AboutDlg::~AboutDlg()
 {
     delete ui;
 }
+
+/*p2更改2222*/
